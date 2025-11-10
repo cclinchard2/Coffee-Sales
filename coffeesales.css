@@ -1,0 +1,80 @@
+/* =============================
+   GLOBAL STYLES
+============================= */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+  line-height: 1.6;
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+header p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+a {
+  color: #2c7be5;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* =============================
+   PROJECT IMAGES
+============================= */
+.project-images {
+  margin-bottom: 2rem;
+}
+
+.project-images h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.project-image {
+  margin-bottom: 1.5rem;
+}
+
+.project-image img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* =============================
+   REPORT INFO
+============================= */
+.report-info {
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.report-info h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.report-info p {
+  margin-bottom: 1rem;
+}
