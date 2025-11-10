@@ -98,7 +98,7 @@ header .intro-text {
 .project-link {
   display: inline-block;
   margin-top: 0.5rem;
-  background: linear-gradient(135deg, #2c7be5, #1a5bb8);
+  background: linear-gradient(135deg, #ff79a8, #ff4d80);
   color: white;
   padding: 0.6rem 1.2rem;
   border-radius: 8px;
@@ -108,7 +108,7 @@ header .intro-text {
 }
 
 .project-link:hover {
-  background: linear-gradient(135deg, #1a5bb8, #2c7be5);
+  background: linear-gradient(135deg, #ff4d80, #ff79a8); /* hover gradient */
 }
 
 
